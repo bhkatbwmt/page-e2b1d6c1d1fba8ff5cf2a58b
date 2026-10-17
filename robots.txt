@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-473f324806.bieoq7.cn/sitemap.xml
